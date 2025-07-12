@@ -38,6 +38,27 @@ This SQL + Power BI project replicates the operational analytics system of a **1
 
 ---
 
+
+## 💾 SQL Queries & Analysis
+
+📁 All SQL queries used to derive insights — from customer funnel, churn detection, rider productivity to top-selling SKUs — are included in the `SQL_Queries.sql` file.
+
+### 🛠️ Techniques Covered:
+
+- ✅ **Joins** (`INNER`, `LEFT`, `SELF`)
+- ✅ **Window Functions** (`ROW_NUMBER`, `RANK`, `LAG`, `LEAD`)
+- ✅ **CTEs** (Common Table Expressions)
+- ✅ **Nested Subqueries**
+- ✅ **Aggregate Functions** (`SUM`, `AVG`, `COUNT`)
+- ✅ **CASE Statements**
+- ✅ **Date/Time Filtering**
+- ✅ **Business Logic Modeling** (GMV, Delay Rate, Conversion Rate)
+
+> 📌 These queries form the backbone of the business insights and Power BI dashboards in this project.
+
+---
+
+
 ## 🖼️ Power BI Dashboard Preview
 
 
